@@ -100,5 +100,5 @@ Las siguientes características se han añadido a esta versión de la aplicació
 
 ## Autor
 
-*   **mayerlynyrs** - [TDC]()
+*   **EmpresasIntegra** - [TDC]()
 
