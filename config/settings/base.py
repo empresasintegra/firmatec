@@ -22,7 +22,7 @@ USE_TZ = True
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'firmatec1',
+            'NAME': 'firmatec',
             'USER': 'postgres',
             'PASSWORD': 'root',
             'HOST': 'localhost',
